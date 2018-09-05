@@ -1,4 +1,4 @@
-nstall command-line tools using Homebrew.
+# Install command-line tools using Homebrew.
 
 # Make sure we’re using the latest Homebrew.
 brew update
